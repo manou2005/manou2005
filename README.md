@@ -1,16 +1,20 @@
-## Hi there 👋
+## Manuela Bobda Chatchueng
 
-<!--
-**manou2005/manou2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Corporate Finance & Financial Engineering · INSEEC Grande École (2026–2028)  
+Candidate CFA Niveau I · Stage Finance chez ZTE France
 
-Here are some ideas to get you started:
+**Domaines :** FP&A · Contrôle de gestion · Sales Finance  
+**Outils :** Excel avancé (VBA, TCD, modèles) · Pennylane · Sage · Bloomberg (bases)  
+**Langues :** Français · Anglais B2 · Arabe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Disponible en alternance à partir de **février 2027** (12 mois)  
+🔗 [linkedin.com/in/manuela-bobda](https://www.linkedin.com/in/manuela-bobda)
+
+---
+
+### Projets académiques
+
+| Projet | Outils | Année |
+|--------|--------|-------|
+| [Analyse Ryanair — Valorisation & Recommandation d'investissement](https://github.com/manou2005/ryanair-financial-analysis) | Excel · DCF · EV/EBITDA | 2025–2026 |
+| [Business Plan Batterie Électrique — KPIs & Sensibilité](https://github.com/manou2005/battery-business-plan) | Excel · P&L · Scénarios | 2024 |
