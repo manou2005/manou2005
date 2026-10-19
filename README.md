@@ -8,7 +8,7 @@ Candidate CFA Niveau I · Stage Finance chez ZTE France
 **Langues :** Français · Anglais B2 · Arabe
 
 📌 Disponible en alternance à partir de **février 2027** (12 mois)  
-🔗 [linkedin.com/in/manuela-bobda](https://www.linkedin.com/in/manuela-bobda)
+🔗 [linkedin.com/in/manuela-bobda](https://www.linkedin.com/in/manuela-bobda-987928297)
 
 ---
 
